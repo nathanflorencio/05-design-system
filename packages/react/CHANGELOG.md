@@ -1,5 +1,11 @@
 # @nate-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Added new props in TextInput
+
 ## 2.0.1
 
 ### Patch Changes
