@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@nate-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,16 +7,16 @@
     "dev": "storybook dev -p 6006",
     "build-vite": "tsc && vite build",
     "build": "storybook build",
-    "deploy-storybook": "storybook-to-ghpages" ,
+    "deploy-storybook": "storybook-to-ghpages",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@nate-ignite-ui/eslint-config": "*",
+    "@nate-ignite-ui/react": "*",
+    "@nate-ignite-ui/tokens": "*",
+    "@nate-ignite-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
