@@ -1,7 +1,6 @@
 {
   "name": "@nate-ignite-ui/docs",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "storybook dev -p 6006",
@@ -12,6 +11,9 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006"
   },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "@nate-ignite-ui/eslint-config": "*",
     "@nate-ignite-ui/react": "*",
